@@ -1,5 +1,5 @@
 # CIS350-HW2-Dorgelo
-## Kalia Dorgelo
+# Kalia Dorgelo
 - Going for walks
 - Hiking
 - Traveling
